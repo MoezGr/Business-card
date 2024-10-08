@@ -1,0 +1,36 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+    
+}
+.picture {
+    width: 150px;
+}
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #48bfe3;
+    border-bottom: 6px solid #735751;
+    color: #2b2839 ;
+}
+.phone-logo {
+    width: 30px;
+    margin-right: 0px;
+    border-radius: 10px;
+    
+}
+.phone-contact {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    margin-left: 0px;
+    
+}
+
+ 
